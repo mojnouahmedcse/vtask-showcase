@@ -10,7 +10,7 @@ The platform is designed to improve operational efficiency, accountability, coll
 
 https://vtask.co
 
-## Application Screenshots
+## VTASK Interface Preview
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.jpg)
