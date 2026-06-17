@@ -101,7 +101,7 @@ https://vtask.co
 
 ## Developer
 
-Mojnou Ahmed
+MD KUTUB UDDIN
 
 Portfolio:
 https://resume.iwebtechnology.net
