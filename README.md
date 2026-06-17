@@ -137,7 +137,7 @@ Built with Laravel and modern web technologies, VTASK helps organizations improv
 
 ## Developer
 
-**Mojnou Ahmed**  
+**MD KUTUB UDDIN**  
 Lead Full Stack PHP Developer | Laravel Specialist | Software Engineer
 
 🌐 Portfolio: https://resume.iwebtechnology.net  
