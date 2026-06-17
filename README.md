@@ -10,7 +10,34 @@ The platform is designed to improve operational efficiency, accountability, coll
 
 https://vtask.co
 
----
+## Application Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.jpg)
+
+### Department Management
+![Department](screenshots/department.jpg)
+
+### Task Management
+![Task Management](screenshots/task-management.jpg)
+
+### User Details
+![User Details](screenshots/user-details.jpg)
+
+### Payment Module
+![Payment Module](screenshots/payment-module.jpg)
+
+### Support System
+![Support](screenshots/support.jpg)
+
+### Notifications
+![Notifications](screenshots/notifications.jpg)
+
+### Maintenance Center
+![Maintenance](screenshots/maintanance.jpg)
+
+### Frontend
+![Frontend](screenshots/frontend.jpg)
 
 ## Key Features
 
